@@ -1,4 +1,6 @@
 print('hello world 3')
 
-def add():
-  print('hello world')
+def mul(a,b):
+    return a*b
+
+mul(2,3)
